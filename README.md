@@ -7,7 +7,7 @@ Type | Specs
 CPU | Octa-core (4x2.4 GHz Kryo 265 Gold & 4x1.9 GHz Kryo 265 Silver)
 CHIPSET | Qualcomm SM6225 Snapdragon 680 4G (6 nm)
 GPU | Adreno 610
-Memory | 4 GB
+Memory | 4/6 GB
 Android Version | 12.0
 Storage | 64/128 GB
 Battery | 5000 mAh
